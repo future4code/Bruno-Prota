@@ -1,0 +1,41 @@
+* {
+    background-color: #FDEFDA;
+    color: #1D2043;
+    font-family: 'Courier New';
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    text-align: justify;
+}
+.botoes {
+    font-size: 20px;
+    text-align: center;
+    margin: 40px 80px;
+}
+footer p {
+    margin: 80px;
+    text-align: center;
+    
+}
+footer img {
+    width: 40px;
+    margin: 12px 80px;
+}
+
+.redessociais {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
