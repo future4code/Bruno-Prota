@@ -1,0 +1,104 @@
+* {
+    font-family: 'Raleway', sans-serif;
+}
+body {
+    background-color:#1D242C;
+    height: 100%;
+}
+header {
+    background-color: #8BD4AB;
+    color: #F5F5EF;
+    height: 60px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    text-align: center;
+}
+header a {
+    text-decoration: none;
+    color: #1D242C;
+    margin-right: 24px;
+    font-weight: bold;
+}
+main {
+    background-color:#1D242C;
+    color: #F5F5EF;
+    width: 100%;
+}
+main h1 {
+    font-size: 24px;
+    text-align: center;
+    margin-top: 40px;
+}
+main p {
+    font-size: 20px;
+    text-align: center;
+    line-height: 28px;
+}
+main a {
+    text-decoration: none;
+    color: #5CE1E6;
+}
+main dt {
+    font-size: 20px;
+    margin-bottom: 8px;
+    margin-left: 35%;
+}
+main dd {
+    font-size: 16px;
+    margin-bottom: 8px;
+    margin-left: 40%;
+    line-height: 24px;
+}
+main li {
+    font-size: 20px;
+    margin-bottom: 8px;
+    margin-left: 40%;
+}
+footer {
+    background-color: #5CE1E6;
+    color: #F5F5EF;
+    height: 60px;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer img {
+    width: 48px;
+    margin: 0px 48px;
+}
+h1 {
+    font-size: 30px;
+    text-align: center;
+}
+h2 {
+    font-size: 20px;
+    text-align: center;
+}
+.menu:hover {
+        text-decoration: underline;
+        color: #dba55d;
+}
+.corpo1 {
+    margin-top: 10%;
+}
+.profilepic {
+    text-align: center;
+}
+.Projeto1 {
+    font-size: 20px;
+    text-align: center;
+
+}
+.projeto1print {
+    text-align: center;
+    margin-bottom: 32px;
+}
+.projeto2print {
+    text-align: center;
+}
